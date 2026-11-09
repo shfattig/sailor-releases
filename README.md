@@ -10,7 +10,7 @@ application source is maintained privately.
 1. Install Obtainium, then add Sailor with this link from your phone:
    [obtainium://add/https://github.com/shfattig/sailor-releases](obtainium://add/https://github.com/shfattig/sailor-releases)
    (or in Obtainium: Add App → `https://github.com/shfattig/sailor-releases`).
-2. Set **Filter APKs by regular expression** to `sailor-stable-.*-arm64\.apk`.
+2. Set **Filter APKs by regular expression** to `sailor-stable-.*-arm64\.apk$`.
    Releases also carry Linux desktop files; this picks the Android app.
 3. Beta testers: turn on **Include prereleases**. Betas are published as GitHub
    pre-releases as soon as they're built; with the option off you get stable
